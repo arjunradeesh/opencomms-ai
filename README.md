@@ -1,5 +1,8 @@
-# opencomms-ai
-# AI for PR & Communications
+**# opencomms-ai
+
+## AI for PR & Communications
+
+Created and maintained by **Arjun Radeesh** — a communications professional exploring the intersection of AI, storytelling, public relations, and content creation.
 
 An open-source collection of AI prompts, workflows, and resources designed for PR professionals, communicators, marketers, journalists, and content creators.
 
@@ -68,6 +71,16 @@ You can help by:
 - [ ] Add industry-specific examples
 - [ ] Build community contributions
 
+## Maintainer
+
+**Arjun Radeesh**
+
+Communications professional focused on exploring how artificial intelligence can enhance storytelling, media relations, and strategic communications.
+
+Connect:
+- LinkedIn: [https://www.linkedin.com/in/arjunradeesh/]
+  
 ## License
 
 MIT License
+**
